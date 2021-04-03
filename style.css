@@ -1,0 +1,19 @@
+h1 {
+    background-color: magenta;
+    text-align: center;
+}
+h2 {
+    background-color: pink;
+    text-align: center;
+}
+.btn {
+    width: 100px;
+    height: 50px;
+    font-size: 1em;
+    border-color: brown;
+    margin: 10px;
+}
+#compScore {
+    left: 500px;
+
+}
